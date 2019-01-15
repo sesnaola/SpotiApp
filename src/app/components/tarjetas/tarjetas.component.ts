@@ -26,4 +26,4 @@ artistaId = item.id;
   console.log(artistaId);
   }
 
-}
+} 
